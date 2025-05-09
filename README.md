@@ -1,6 +1,6 @@
 # 🎵 Decoding the Beats with Spotify
 
-A Streamlit-powered music recommender system that compares songs using audio features from Spotify data. Select a favorite song to get smart, feature-based recommendations — visualized using interactive tables and radar charts.
+A Streamlit-powered music recommender system that compares songs using audio features from Spotify data. Select a favorite song to get smart, feature-based recommendations.
 
 ## Live Demo
 
@@ -31,9 +31,6 @@ This file should contain:
 - A `Cluster` column indicating precomputed groupings
 - Metadata such as `Track`, `Artist`, `Year`
 
----
-
-
 ## How to Run Locally
 
 ### 1. Clone the repository
@@ -45,7 +42,7 @@ cd decoding-the-beats-with-spotify```
 
 ### 2. Install dependencies
 
-We recommend using a virtual environment:
+I recommend using a virtual environment:
 ```
 pip install -r requirements.txt
 ```
@@ -59,8 +56,7 @@ Make sure clean_clustered_songs.csv is in the root directory.
 streamlit run app.py
 ```
 
-
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
