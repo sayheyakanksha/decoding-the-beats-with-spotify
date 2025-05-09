@@ -1,0 +1,48 @@
+# Core data science libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# Visualization tools
+ipywidgets
+ipyleaflet
+jupyterlab
+
+# pip-installed libraries
+ipympl
+mplcursors
+wordcloud
+altair
+vega_datasets
+
+# Image processing
+pillow
+
+# Jupyter-specific tools
+ipython
+
+# Natural language processing (NLP)
+spacy
+nltk
+gensim
+sentence-transformers
+
+# Network analysis
+networkx
+python-igraph
+
+# Dimensionality reduction and clustering
+umap-learn
+
+# Documentation tools
+mkdocs
+mkdocs-material
+mkdocs-jupyter
+beautifulsoup4
+
+# Arrow and Parquet file handling
+pyarrow
