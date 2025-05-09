@@ -2,15 +2,21 @@
 
 A Streamlit-powered music recommender system that compares songs using audio features from Spotify data. Select a favorite song to get smart, feature-based recommendations — visualized using interactive tables and radar charts.
 
-### Live Demo
+## Live Demo
 
-Try the app here: [Streamlit App](https://decoding-the-beats-with-spotify.streamlit.app/)
-
---- 
+Try the app here: [Streamlit App - Song Recommender](https://decoding-the-beats-with-spotify.streamlit.app/)
 
 ## Overview
 
-This web app analyzes song similarities based on Spotify’s audio feature set and clustering. It lets users:
+This project was created by **Akanksha** for the course **I513: Usable AI** (Spring 2025).  
+The work explores classic hit songs using a [Kaggle dataset](https://www.kaggle.com/datasets/thebumpkin/10400-classic-hits-10-genres-1923-to-2023/data) containing 15,150 tracks spanning from 1923 to 2023, enriched with Spotify audio features.
+
+The project combines:
+- **Exploratory data analysis** to uncover long-term trends
+- **Predictive modeling** to understand song popularity drivers
+- **Clustering techniques** to segment songs based on audio similarity
+
+The result is an interpretable, content-based song recommender app built in Streamlit. This web app analyzes song similarities based on Spotify’s audio feature set and clustering. It lets users:
 - Select a known song
 - Discover similar tracks from the same feature cluster
 - Compare key audio attributes visually
